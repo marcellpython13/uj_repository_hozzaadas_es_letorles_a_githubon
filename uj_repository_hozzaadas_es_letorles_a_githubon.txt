@@ -1,0 +1,7 @@
+hozzáadás: A jobbfelső sarokban a + jelen belül lévő "New repository"-ra kattintani; 
+beírni a repository nevét; bejelölni, hogy publikus; "Create repository" gomb. 
+A "Quick setup — if you’ve done this kind of thing before" feliratú kék téglalapban
+rányomni, hogy "uploading an existing file", behúzni a fájlt/mappát, "Commit changes" gomb.
+
+letörlés: A repository-n belül rányomni a Settings-re; alul rányomni a "Delete this repository"
+gombra; beírni az idézőjeles szöveget, "Delete this repository" gomb.
